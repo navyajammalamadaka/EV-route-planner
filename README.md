@@ -4,9 +4,6 @@ This is a simple route planner for EV charging stations. Given a departure locat
 
 WebApp is served here: [formidablae-ev-route-planner.netlify.app](https://formidablae-ev-route-planner.netlify.app)
 
-## Documentation
-
-Documentation in Italian language is available here: [Documentazione_Informatica_III_Modulo_Progettazione_e_Algoritmi.pdf](./docs/pdf/Documentazione_Informatica_III_Modulo_Progettazione_e_Algoritmi_Anonimo.pdf)
 
 ## Visual state of the project
 
